@@ -59,4 +59,3 @@ O foco principal é fornecer uma aplicação:
 - Chart.js  
 - Styled-Components / Tailwind (dependendo da escolha)
 - Axios
-# Dashboard-Financeiro
